@@ -1,0 +1,18 @@
+page-logged-in {
+    .messagge {
+        background-color: rgba(25, 127, 223, 0.692);
+        display: inline-block;
+        border-radius: 5%;
+        padding: 5px;
+        color: white;
+    }
+    .username {
+        font-weight: 900;
+    }
+    .mesleft {
+        float: left;
+    }
+    .mesright {
+        float: right;
+    }
+}
